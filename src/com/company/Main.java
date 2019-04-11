@@ -27,7 +27,7 @@ public class Main {
             if (reply.contains("well") && !reply.contains("good")) {
                 System.out.println("Such fine grammar =)");
             }
-            if (reply.contains("thanks")){
+            if (reply.contains("thanks") || reply.contains("thank you")){
                 System.out.println("You're welcome!");
             }
             if (reply.contains("no problem")){
