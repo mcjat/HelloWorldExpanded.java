@@ -34,7 +34,7 @@ public class Main {
                 System.out.println("Surely, and yet so few utilize good manners.");
             }
             if (reply.contains("rude")){
-
+                System.out.println("Oh dear, I apologize if I have offended.");
             }
         }
     }
